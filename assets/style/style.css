@@ -1,0 +1,25 @@
+body{
+    width: 1400px;
+}
+.cont1{ 
+    /* width: 1400px; */
+    background: white;
+    border-bottom: 4px solid #cccccc;
+}
+
+.size1{
+    width: 960px;
+    
+}
+
+.h-text{
+    background: #4aaaa5;
+    color:white;
+    font-size:35px;
+    
+
+}
+.font1{
+    font-size: 25px;
+    color:#777777;
+}
