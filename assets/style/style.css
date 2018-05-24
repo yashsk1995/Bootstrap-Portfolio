@@ -8,13 +8,16 @@ body{
 }
 .cont2{
     background: white;
-
+    /* height:500px; */
 }
 .size1{
     width: 960px;
     
 }
-
+.conreset
+{   padding: 0;;
+    margin: 0;
+}
 .h-text{
     background: #4aaaa5;
     color:white;
@@ -36,4 +39,14 @@ body{
 }
 .p1{
     color:#777777;
+}
+.footfont{
+    background: #777777;
+    margin-bottom: 0;
+    height: 50px;
+    color: white;
+}
+.img1{
+    width: 180px;
+    height:120px;
 }
