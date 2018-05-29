@@ -53,27 +53,28 @@
     border-top: 2px solid #4aaaa5;
 }
 .img1{
-    width: 180px;
+    /* width: 180px; */
     height:120px;
 }
+
 .label1{
     color: white;
     background: #4aaaa5;
-    width:180px;
-    height:30px; 
+    /* width:180px; */
+    /* height:30px; 
     position: absolute;
     top:105px;
-    left:100px;
+    left:100px; */
 }
 
 .label2{
     color: white;
     background: #4aaaa5;
-    width:180px;
+    /* width:180px;
     height:30px; 
     position: absolute;
     top:130px;
-    left:100px;
+    left:100px; */
 }
 
 .txtarea{
