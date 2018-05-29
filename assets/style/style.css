@@ -1,28 +1,31 @@
-
+/* Container 1 */
 .cont1{ 
-    /* width: 1400px; */
+  
     background: white;
     border-bottom: 4px solid #cccccc;
 }
+/* Container 2 */
 .cont2{
     background: white;
-    /* height:500px; */
+    
 }
+/* For setting all div margin 0 and padding 0 */
 .conreset
 {   padding:0;
     margin: 0;
 }
+/* header text */
 .h-text{
     background: #4aaaa5;
     color:white;
     font-size:35px;
-    
-
 }
+/* Button */
 .btn{
     margin-left:800;
     font-size:20px;
 }
+/* text in header */
 .text1{
     
     background: #4aaaa5;
@@ -30,21 +33,26 @@
     padding: 10px;
     margin-left: 100px;
 }
+/* font in paragraph */
 .font1{
     font-size: 25px;
     color:#777777;
 }
+/* heading in container */
 .h11{
     border-bottom: 3px solid #cccccc;
     color:#4aaaa5;
 }
+/* all images height and width */
 .img{
     width: 200px;
     height:200px;
 }
+/* paragraph font color */
 .p1{
     color:#777777;
 }
+/* Footer fonts */
 .footfont{
     background: #777777;
     margin-bottom: 0;
@@ -52,31 +60,24 @@
     color: white;
     border-top: 2px solid #4aaaa5;
 }
+/* images height  */
 .img1{
-    /* width: 180px; */
+   
     height:120px;
 }
-
+/* labels in contact forms */
 .label1{
     color: white;
     background: #4aaaa5;
-    /* width:180px; */
-    /* height:30px; 
-    position: absolute;
-    top:105px;
-    left:100px; */
+    
 }
-
+/* labels in contact forms */
 .label2{
     color: white;
     background: #4aaaa5;
-    /* width:180px;
-    height:30px; 
-    position: absolute;
-    top:130px;
-    left:100px; */
+   
 }
-
+/* textarea height */
 .txtarea{
     height:70px;
 }
